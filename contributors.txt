@@ -1,6 +1,5 @@
-This is to serve as page thanking and crediting all the people that helped work on the TripSit combination project. This will take some time to fully represent all of our contributions.
+This is to serve as page thanking and crediting all the people that helped work on the TripSit combination project. This will take some time to fully represent all of our contributions. There is no particular order to this list currently.
 
-utaninja
 LunaUrsa / MoonBear
 Hipperooni
 Prototype99
@@ -10,11 +9,13 @@ ELLEation
 Win32Stuxnet (Alana)
 N3rdiFly
 cosmic-owls
-s0uthview
+Uly / s0uthview
 cyp888-meow
 mastfissh
 zelixir25 / bread and doses
-jedrek
+jedrek / jedrek8733 / Time / murumassa
+utaninja
 
-Comedownkid
-Noop
+Contributors (in memoriam)
+Comedownkid / CDK
+Noop / noop8077
