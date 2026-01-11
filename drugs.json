@@ -29883,16 +29883,16 @@
     },
     "formatted_dose": {
       "Insufflated": {
-        "Common": "15-40mg",
-        "Heavy": "60-75mg+",
-        "Light": "5-15mg",
-        "Strong": "40-60mg"
+        "Light": "5-10mg",
+        "Common": "10-20mg",
+        "Strong": "20-30mg",
+        "Heavy": "30mg+"
       },
       "Oral": {
-        "Common": "40-60mg",
-        "Heavy": "80-100mg+",
-        "Light": "20-40mg",
-        "Strong": "60-80mg"
+        "Light": "5-10mg",
+        "Common": "10-20mg",
+        "Strong": "20-40mg",
+        "Heavy": "40mg+"
       }
     },
     "formatted_duration": {
@@ -29914,8 +29914,7 @@
     ],
     "formatted_onset": {
       "_unit": "minutes",
-      "Insufflated_IR": "5-10",
-      "Insufflated_XR": "5-10",
+      "Insufflated": "5-10",
       "Oral_ER": "30-120",
       "Oral_IR": "30-120"
     },
@@ -29934,12 +29933,13 @@
         "habit-forming",
         "common"
       ],
-      "dose": "Oral Light: 20-40mg  Common: 40-60mg  Strong: 60-80mg  Heavy: 80-100mg+ | Insufflated Light: 5-15mg  Common: 15-40mg  Strong: 40-60mg  Heavy: 60-75mg+",
+      "dose": "Oral Light: 5-10mg  Common: 10-20mg  Strong: 20-40mg  Heavy: 40mg+ | Insufflated Light: 5-10mg  Common: 10-20mg  Strong: 20-30mg  Heavy: 30mg+",
       "duration": "Oral-IR: 3-6 hours. | Oral-XR: 8-12 hours. | Insufflated: 2-4 hours. | Note: XR formulations when crushed or otherwise changed become IR before they can be insufflated, so the duration of such is roughly the same as typical IR formulations.",
       "effects": "Increased alertness, Euphoria, Increased motivation, Reduced appetite, Flushing of the face, Increased body temperature, Tachycardia (increased heart rate), Paranoia, Insomnia.",
       "marquis": "Moderate orange yellow ",
-      "onset": "Oral-IR: 30-120 minutes | Oral-XR: 30-120 minutes | Insufflated-XR: 5-10 minutes | Insufflated-IR: 5-10 minutes",
-      "summary": "A psychostimulant commonly used in the treatment of ADHD, narcolepsy, and obesity. The drug is particuarly used in the EU instead of Adderall. Methylphenidate is a 5HT1A receptor agonist. The drug is prescribed off-label to help the withdrawals from cocaine and other stimulants."
+      "onset": "Oral-IR: 30-120 minutes | Oral-XR: 30-120 minutes | Insufflated: 5-10 minutes",
+      "summary": "A psychostimulant widely used worldwide as a first-line treatment for ADHD and used in the treatment of narcolepsy. Methylphenidate acts primarily as a norepinephrine–dopamine reuptake inhibitor (NDRI). In many European countries it is commonly prescribed as a first-line option for ADHD where amphetamine-based medications are less frequently used. It has been investigated for off-label use in stimulant dependence, but this is not standard clinical practice.",
+      "warning": "Extended-release (XR/ER/LA/CR) formulations should not be insufflated. Crushing XR products destroys the release mechanism and introduces large amounts of insoluble fillers, significantly increasing nasal irritation and damage without extending effects. If insufflation occurs, effects are immediate-release only."
     },
     "pweffects": {
       "Analysis enhancement": "https://psychonautwiki.org/wiki/Analysis_enhancement",
@@ -29972,7 +29972,6 @@
         "Methylphenidate treatment induces oxidative stress in young rat brain. - http://www.ncbi.nlm.nih.gov/pubmed/16494852",
         "A comprehensive in vitro screening of d-, l-, and dl-threo-methylphenidate: an exploratory study. - http://www.ncbi.nlm.nih.gov/pubmed/17201613",
         "Methylphenidate and its ethanol transesterification metabolite ethylphenidate: brain disposition, monoamine transporters and motor activity. - http://www.ncbi.nlm.nih.gov/pubmed/17218796",
-        "The psychostimulant d-threo-(R,R)-methylphenidate binds as an agonist to the 5HT(1A) receptor. - http://www.ncbi.nlm.nih.gov/pubmed/19322953",
         "Methylphenidate combined with aripiprazole in children and adolescents with bipolar disorder and attention-deficit/hyperactivity disorder - http://www.ncbi.nlm.nih.gov/pubmed/19877980",
         "Isopropylphenidate: an ester homolog of methylphenidate with sustained and selective dopaminergic activity and reduced drug interaction - http://www.ncbi.nlm.nih.gov/pubmed/24261661",
         "Object memory impairment at post-drug Day 15 but not at Day 1 after a regimen of repeated treatment with oral methylphenidate. - http://www.ncbi.nlm.nih.gov/pubmed/24631430",
@@ -29983,7 +29982,11 @@
         "Methylphenidate combined with aripiprazole in children and adolescents with bipolar disorder and attention-deficit/hyperactivity disorder: a random... - http://www.ncbi.nlm.nih.gov/pubmed/19877980",
         "Long Withdrawal of Methylphenidate Induces a Differential Response of the Dopaminergic System and Increases Sensitivity to Cocaine in the Prefronta... - http://www.ncbi.nlm.nih.gov/pubmed/26509840",
         "IV use of methylphenidate can lead to infections and abscesses due to the fillers in the medication - http://onlinelibrary.wiley.com/doi/10.1002/hed.2890060409/full",
-        "Pregnancy category C according to the FDA - http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/010187s069,018029s040,021284s011lbl.pdf"
+        "Pregnancy category C according to the FDA - http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/010187s069,018029s040,021284s011lbl.pdf",
+        "Ritalin (methylphenidate) dosage information for adults and pediatric patients. Describes standard oral dosing, starting doses, titration schedules, and a recommended maximum total daily dose of 60 mg, administered in divided doses. - https://www.drugs.com/dosage/ritalin.html",
+        "NHS guidance on how and when to take methylphenidate for adults. Covers standard tablet dosing, starting doses (5 mg), dose escalation, narcolepsy dosing, and maximum daily dose recommendations, with emphasis on divided dosing. - https://www.nhs.uk/medicines/methylphenidate-adults/how-and-when-to-take-methylphenidate-for-adults/",
+        "Mayo Clinic clinical reference for oral methylphenidate. Provides dosing information for short-acting tablets in adults and children, including typical daily dose ranges, divided administration, and a recommended maximum daily dose of 60 mg. - https://www.mayoclinic.org/drugs-supplements/methylphenidate-oral-route/description/drg-20068297",
+        "Riatlin works on Norepinephrine–dopamine reuptake inhibitor (NDRI) mechanism - https://en.wikipedia.org/wiki/Methylphenidate"
       ]
     }
   },
