@@ -7,6 +7,8 @@ There are currently two main files for this database, "drugs.json" and "combos.j
 
 If you would like to contribute and are unfamiliar with GitHub, the easiest way to contribute is through a [GitHub discussion](https://github.com/TripSit/drugs/discussions).
 
+You are also encouraged to see the [repository's Wiki](https://github.com/TripSit/drugs/wiki).
+
 ## Drugs Database
 * drugs.json is a massive file containing all of our drug information used by our factsheets and more.
   * The database would benefit from revisions, sources, additions, modifications, and more. Feel free to contribute in any way to improve our database.
