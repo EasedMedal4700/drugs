@@ -13643,7 +13643,6 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Threshold": "150mg/day",
         "Light": "150mg/day",
         "Common": "150-300mg/day",
         "Strong": "300-450mg/day",
@@ -39928,5 +39927,71 @@
       "onset": "30-50 minutes",
       "summary": "β-Hydroxy-2C-B is a novel analogue of 2C-B that is a slightly less potent to 2C-B, and reportedly a longer duration. 2C-B is suspected to be the active metabolite of βk-2C-B."
     }
+  },
+  "ic-26": {
+    "categories": [
+      "opioid",
+      "habit-forming",
+      "depressant"
+    ],
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "6-48"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Light": "5-10mg",
+        "Common": "10-20mg",
+        "Strong": "20-35mg+"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "6-24"
+    },
+    "formatted_effects": [
+      "Analgesia",
+      "Euphoria",
+      "Sedation",
+      "Respiratory depression",
+      "Mood lift",
+      "Itchiness",
+      "Dry mouth",
+      "Pupil constriction",
+      "Physical relaxation"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "45-120"
+    },
+    "links": {
+      "experiences": "https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1963-01-01_1_page005.html"
+    },
+    "name": "ic_26",
+    "pretty_name": "IC-26 (WIN 1161-3 / Methiodone)",
+    "properties": {
+      "after-effects": "6–48 hours.",
+      "avoid": "All other CNS depressants.",
+      "bioavailability": "Oral (exact value unknown).",
+      "categories": [
+        "opioid",
+        "habit-forming",
+        "depressant"
+      ],
+      "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+. NOTE: These doses are mirrored from methadone and are not based on established clinical guidelines. Effects may be delayed and prolonged.",
+      "duration": "Oral 6–24 hours. Effects lasting up to 24 hours have been reported.",
+      "effects": "Analgesia, Euphoria, Sedation, Respiratory depression, Mood lift, Itchiness, Dry mouth, Pupil constriction, Physical relaxation.",
+      "half-life": "Unknown; likely prolonged.",
+      "onset": "45–120 minutes.",
+      "summary": "IC-26 (WIN 1161-3, Methiodone) is a synthetic opioid and methadone analogue in which the carbonyl group is replaced by a sulfone. It produces morphine-like effects with significant inter-individual variability and was investigated historically as an antitussive and analgesic."
+    },
+    "sources": {
+      "_general": [
+        "Wolbach AB, Fraser HF. Addiction Liability of I-C-26. Bulletin on Narcotics, 1963.",
+        "Janssen PA. Synthetic Analgesics Vol. 1. Pergamon Press, 1960.",
+        "Lednicer D. Central Analgetics. Wiley, 1982."
+      ]
+    }
   }
+
 }
