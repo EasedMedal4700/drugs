@@ -39928,7 +39928,7 @@
       "summary": "β-Hydroxy-2C-B is a novel analogue of 2C-B that is a slightly less potent to 2C-B, and reportedly a longer duration. 2C-B is suspected to be the active metabolite of βk-2C-B."
     }
   },
-  "ic_26": {
+  "ic-26": {
     "categories": [
       "opioid",
       "habit-forming",
@@ -39942,7 +39942,8 @@
       "Oral": {
         "Light": "5-10mg",
         "Common": "10-20mg",
-        "Strong": "20-35mg+"
+        "Strong": "20-35mg",
+        "Heavy": "35mg+"
       }
     },
     "formatted_duration": {
@@ -39968,9 +39969,15 @@
       "experiences": "https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1963-01-01_1_page005.html"
     },
     "name": "ic-26",
-    "pretty_name": "IC-26 (WIN 1161-3 / Methiodone)",
+    "pretty_name": "Methiodone",
     "properties": {
       "after-effects": "6–48 hours. Drug effects lasting up to 24 hours were reported in some subjects following single oral doses.",
+      "aliases": [
+        "IC-26",
+        "I-C-26",
+        "WIN 1161-3",
+        "Methiodone"
+      ],
       "avoid": "All other CNS depressants.",
       "bioavailability": "Oral (exact value unknown).",
       "categories": [
@@ -39983,7 +39990,7 @@
       "effects": "Analgesia, Euphoria, Sedation, Respiratory depression, Mood lift, Itchiness, Dry mouth, Pupil constriction, Physical relaxation.",
       "half-life": "Unknown.",
       "onset": "45–120 minutes.",
-      "summary": "IC-26 (WIN 1161-3, Methiodone) is a synthetic opioid analgesic and methadone analogue developed by Sterling Drug Inc. In human studies, low oral doses frequently produced no clear subjective effects, while higher doses induced morphine-like effects with significant inter-individual variability. Twenty-four-hour substitution studies demonstrated that IC-26 effectively suppressed morphine withdrawal, and its addiction liability was concluded to be comparable to morphine."
+      "summary": "Methiodone (IC-26, WIN 1161-3) is a synthetic opioid analgesic and methadone analogue developed by Sterling Drug Inc. In human studies, low oral doses frequently produced no clear subjective effects, while higher doses induced morphine-like effects with significant inter-individual variability. Twenty-four-hour substitution studies demonstrated that IC-26 effectively suppressed morphine withdrawal, and its addiction liability was concluded to be comparable to morphine."
     },
     "sources": {
       "_general": [
@@ -39994,5 +40001,4 @@
       ]
     }
   }
-
 }
