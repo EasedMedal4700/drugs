@@ -20478,6 +20478,67 @@
       "summary": "A combination of diphenhydramine and a mild stimulant to counteract the drowsiness accompanied by typical medical use of diphenhydramine. Roughly half the potency of diphenhydramine. Small doses can relieve motion sickness, reduce body load from opioids or dextromethorphan. The drug produces deliriant effects in higher doses, keeping the user awake and often causing dysphoric, realistic hallucinations."
     }
   },
+  "dxme": {
+    "categories": [
+      "dissociative",
+      "habit-forming",
+      "research-chemical"
+    ],
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "6-24"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Light": "15-25mg",
+        "Common": "30-50mg",
+        "Strong": "50-80mg",
+        "Heavy": "80mg+"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "4-8"
+    },
+    "formatted_effects": [
+      "Dissociation",
+      "Analgesia",
+      "Euphoria",
+      "Cognitive impairment",
+      "Sedation",
+      "Time distortion",
+      "Impaired coordination",
+      "Confusion"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "30-90"
+    },
+    "name": "dxme",
+    "pretty_name": "Deoxymethoxetamine",
+    "properties": {
+      "after-effects": "6–24 hours. Residual dissociation, cognitive fog, and fatigue may persist into the following day.",
+      "avoid": "Other dissociatives, alcohol, benzodiazepines, opioids, and other CNS depressants.",
+      "bioavailability": "Oral (exact value unknown).",
+      "categories": [
+        "dissociative",
+        "habit-forming",
+        "research-chemical"
+      ],
+      "dose": "Oral Light: 15-25mg | Common: 30-50mg | Strong: 50-80mg | Heavy: 80mg+. NOTE: DXME is a novel dissociative with limited human data. Potency, duration, and adverse effects may vary significantly between individuals. Conservative dosing and extended waiting periods are advised.",
+      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
+      "duration": "4–8 hours. Duration may vary depending on dose, metabolism, and individual sensitivity.",
+      "effects": "Dissociation, Analgesia, Euphoria, Cognitive impairment, Sedation, Time distortion, Impaired coordination, Confusion.",
+      "half-life": "Unknown.",
+      "onset": "30–90 minutes.",
+      "summary": "Deoxymethoxetamine (DXME) is a novel dissociative from the arylcyclohexylamine family that emerged on the illicit market around 2020–2021. It has been identified as a new psychoactive substance and computationally predicted to possess addictive potential. Human pharmacological data remain limited, and effects show notable inter-individual variability."
+    },
+    "sources": {
+      "_general": [
+        "Han M, Liu S, Zhang D, et al. AddictedChem: A Data-Driven Integrated Platform for New Psychoactive Substance Identification. Front Pharmacol. 2022;13:922741. https://pmc.ncbi.nlm.nih.gov/articles/PMC9227411/"
+      ]
+    }
+  },
   "eflea": {
     "categories": [
       "stimulant",
@@ -23805,6 +23866,80 @@
       "_general": [
         "Ibuprofen: pharmacology, efficacy and safety - http://www.ncbi.nlm.nih.gov/pubmed/19949916",
         "Coronary arterial vasodilator effect of ibuprofen - http://www.ncbi.nlm.nih.gov/pubmed/7053413"
+      ]
+    }
+  },
+  "ic-26": {
+    "categories": [
+      "opioid",
+      "habit-forming",
+      "depressant"
+    ],
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "6-48"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Light": "5-10mg",
+        "Common": "10-20mg",
+        "Strong": "20-35mg",
+        "Heavy": "35mg+"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "6-24"
+    },
+    "formatted_effects": [
+      "Analgesia",
+      "Euphoria",
+      "Sedation",
+      "Respiratory depression",
+      "Mood lift",
+      "Itchiness",
+      "Dry mouth",
+      "Pupil constriction",
+      "Physical relaxation"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "45-120"
+    },
+    "links": {
+      "experiences": "https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1963-01-01_1_page005.html"
+    },
+    "name": "ic-26",
+    "pretty_name": "Methiodone",
+    "properties": {
+      "after-effects": "6–48 hours. Drug effects lasting up to 24 hours were reported in some subjects following single oral doses.",
+      "aliases": [
+        "IC-26",
+        "I-C-26",
+        "WIN 1161-3",
+        "Methiodone"
+      ],
+      "avoid": "All other CNS depressants.",
+      "bioavailability": "Oral (exact value unknown).",
+      "categories": [
+        "opioid",
+        "habit-forming",
+        "depressant"
+      ],
+      "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+. NOTE: In controlled human studies, single oral doses below approximately 25 mg often produced no definite subjective effects, while morphine-like effects became consistent at higher doses.",
+      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
+      "duration": "Oral 6–24 hours. In human studies, effects were sometimes reported for as long as 24 hours after a single oral dose.",
+      "effects": "Analgesia, Euphoria, Sedation, Respiratory depression, Mood lift, Itchiness, Dry mouth, Pupil constriction, Physical relaxation.",
+      "half-life": "Unknown.",
+      "onset": "45–120 minutes.",
+      "summary": "Methiodone (IC-26, WIN 1161-3) is a synthetic opioid analgesic and methadone analogue developed by Sterling Drug Inc. In human studies, low oral doses frequently produced no clear subjective effects, while higher doses induced morphine-like effects with significant inter-individual variability. Twenty-four-hour substitution studies demonstrated that IC-26 effectively suppressed morphine withdrawal, and its addiction liability was concluded to be comparable to morphine."
+    },
+    "sources": {
+      "_general": [
+        "Wolbach AB, Fraser HF. Addiction Liability of I-C-26. Bulletin on Narcotics, 1963.",
+        "Janssen PA. Synthetic Analgesics Vol. 1. Pergamon Press, 1960.",
+        "Lednicer D. Central Analgetics. Wiley, 1982.",
+        "US Patent 2,618,640 – Certain Amino Hydrocarbon Sulfones and Process of Preparation (Archer, Suter, Tullar; Sterling Drug Inc.)."
       ]
     }
   },
@@ -39926,141 +40061,6 @@
       "duration": "7-10 hours",
       "onset": "30-50 minutes",
       "summary": "β-Hydroxy-2C-B is a novel analogue of 2C-B that is a slightly less potent to 2C-B, and reportedly a longer duration. 2C-B is suspected to be the active metabolite of βk-2C-B."
-    }
-  },
-  "ic-26": {
-    "categories": [
-      "opioid",
-      "habit-forming",
-      "depressant"
-    ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "6-48"
-    },
-    "formatted_dose": {
-      "Oral": {
-        "Light": "5-10mg",
-        "Common": "10-20mg",
-        "Strong": "20-35mg",
-        "Heavy": "35mg+"
-      }
-    },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "6-24"
-    },
-    "formatted_effects": [
-      "Analgesia",
-      "Euphoria",
-      "Sedation",
-      "Respiratory depression",
-      "Mood lift",
-      "Itchiness",
-      "Dry mouth",
-      "Pupil constriction",
-      "Physical relaxation"
-    ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "45-120"
-    },
-    "links": {
-      "experiences": "https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1963-01-01_1_page005.html"
-    },
-    "name": "ic-26",
-    "pretty_name": "Methiodone",
-    "properties": {
-      "after-effects": "6–48 hours. Drug effects lasting up to 24 hours were reported in some subjects following single oral doses.",
-      "aliases": [
-        "IC-26",
-        "I-C-26",
-        "WIN 1161-3",
-        "Methiodone"
-      ],
-      "avoid": "All other CNS depressants.",
-      "bioavailability": "Oral (exact value unknown).",
-      "categories": [
-        "opioid",
-        "habit-forming",
-        "depressant"
-      ],
-      "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+. NOTE: In controlled human studies, single oral doses below approximately 25 mg often produced no definite subjective effects, while morphine-like effects became consistent at higher doses.",
-      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
-      "duration": "Oral 6–24 hours. In human studies, effects were sometimes reported for as long as 24 hours after a single oral dose.",
-      "effects": "Analgesia, Euphoria, Sedation, Respiratory depression, Mood lift, Itchiness, Dry mouth, Pupil constriction, Physical relaxation.",
-      "half-life": "Unknown.",
-      "onset": "45–120 minutes.",
-      "summary": "Methiodone (IC-26, WIN 1161-3) is a synthetic opioid analgesic and methadone analogue developed by Sterling Drug Inc. In human studies, low oral doses frequently produced no clear subjective effects, while higher doses induced morphine-like effects with significant inter-individual variability. Twenty-four-hour substitution studies demonstrated that IC-26 effectively suppressed morphine withdrawal, and its addiction liability was concluded to be comparable to morphine."
-    },
-    "sources": {
-      "_general": [
-        "Wolbach AB, Fraser HF. Addiction Liability of I-C-26. Bulletin on Narcotics, 1963.",
-        "Janssen PA. Synthetic Analgesics Vol. 1. Pergamon Press, 1960.",
-        "Lednicer D. Central Analgetics. Wiley, 1982.",
-        "US Patent 2,618,640 – Certain Amino Hydrocarbon Sulfones and Process of Preparation (Archer, Suter, Tullar; Sterling Drug Inc.)."
-      ]
-    }
-  },
-  "dxme": {
-    "categories": [
-      "dissociative",
-      "habit-forming",
-      "research-chemical"
-    ],
-    "formatted_aftereffects": {
-      "_unit": "hours",
-      "value": "6-24"
-    },
-    "formatted_dose": {
-      "Oral": {
-        "Light": "15-25mg",
-        "Common": "30-50mg",
-        "Strong": "50-80mg",
-        "Heavy": "80mg+"
-      }
-    },
-    "formatted_duration": {
-      "_unit": "hours",
-      "value": "4-8"
-    },
-    "formatted_effects": [
-      "Dissociation",
-      "Analgesia",
-      "Euphoria",
-      "Cognitive impairment",
-      "Sedation",
-      "Time distortion",
-      "Impaired coordination",
-      "Confusion"
-    ],
-    "formatted_onset": {
-      "_unit": "minutes",
-      "value": "30-90"
-    },
-    "name": "dxme",
-    "pretty_name": "Deoxymethoxetamine",
-    "properties": {
-      "after-effects": "6–24 hours. Residual dissociation, cognitive fog, and fatigue may persist into the following day.",
-      "avoid": "Other dissociatives, alcohol, benzodiazepines, opioids, and other CNS depressants.",
-      "bioavailability": "Oral (exact value unknown).",
-      "categories": [
-        "dissociative",
-        "habit-forming",
-        "research-chemical"
-      ],
-      "dose": "Oral Light: 15-25mg | Common: 30-50mg | Strong: 50-80mg | Heavy: 80mg+. NOTE: DXME is a novel dissociative with limited human data. Potency, duration, and adverse effects may vary significantly between individuals. Conservative dosing and extended waiting periods are advised.",
-      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
-      "duration": "4–8 hours. Duration may vary depending on dose, metabolism, and individual sensitivity.",
-      "effects": "Dissociation, Analgesia, Euphoria, Cognitive impairment, Sedation, Time distortion, Impaired coordination, Confusion.",
-      "half-life": "Unknown.",
-      "onset": "30–90 minutes.",
-      "summary": "Deoxymethoxetamine (DXME) is a novel dissociative from the arylcyclohexylamine family that emerged on the illicit market around 2020–2021. It has been identified as a new psychoactive substance and computationally predicted to possess addictive potential. Human pharmacological data remain limited, and effects show notable inter-individual variability."
-    },
-    "sources": {
-      "_general": [
-        "Han M, Liu S, Zhang D, et al. AddictedChem: A Data-Driven Integrated Platform for New Psychoactive Substance Identification. Front Pharmacol. 2022;13:922741. https://pmc.ncbi.nlm.nih.gov/articles/PMC9227411/"
-      ]
     }
   }
 }
