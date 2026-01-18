@@ -2027,6 +2027,60 @@
       "warning": "Note this is a very long lasting compound that can be very hard on the body."
     }
   },
+  "2c-g-5": {
+    "aliases": [
+      "2c-g-5"
+    ],
+    "categories": [
+        "psychedelic",
+        "research-chemical"
+    ],
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "value": "unknown"
+    },
+    "formatted_dose": {
+      "Oral": {
+        "Light": "unknown",
+        "Common": "unknown",
+        "Strong": "unknown"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "value": "32-48 (reported by users)"
+    },
+    "formatted_effects": [
+      "psychedelic effects",
+      "altered perception",
+      "visual movement illusions",
+      "enhanced colors",
+      "enhanced sounds",
+      "enhanced emotions",
+      "time distortion"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "value": "unknown"
+    },
+    "name": "2c-g-5",
+    "pretty_name": "2C-G-5",
+    "properties": {
+      "aliases": [
+        "2c-g-5"
+      ],
+      "categories": [
+        "psychedelic",
+        "research-chemical"
+      ],
+      "dose": "The dosage of 2C-G-5 is unknown. It is reported to be active at very low doses, which increases the risk of accidental overdose.",
+      "duration": "It is not certain how long the effects last. Users online report durations of approximately 32 to 48 hours.",
+      "effects": "Reported effects include psychedelic experiences such as altered perception, enhanced colors, sounds and emotions, visual illusions, and distorted time perception.",
+      "onset": "Unknown.",
+      "summary": "2C-G-5 is a designer drug that has only recently appeared on the drug market. There is very little information available about its effects, dosage, and risks. No scientific research has been conducted on this substance.",
+      "warning": "This substance is poorly researched. The long duration may cause severe sleep disruption and exhaustion. Drug interactions are unknown and could be dangerous. The low dosage increases overdose risk. There is a significant risk of bad trips involving confusion and intense anxiety. Possible increases in heart rate and blood pressure may cause headaches and muscle tension. Legal status does not imply safety."
+    }
+  },
   "2c-i": {
     "aliases": [
       "2ci"
@@ -18064,6 +18118,84 @@
       "summary": "Related in structure to 5-MeO-DMT, yet much less potent. Described as feeling somewhat similar to psilocybin mushrooms, with some additional empathogenic effects."
     }
   },
+  "dimethocaine": {
+    "aliases": [
+      "DMC",
+      "CMD",
+      "Larocaine"
+    ],
+    "categories": [
+      "stimulant",
+      "research-chemical",
+      "habit-forming",
+      "tentative"
+    ],
+    "dose_note": " Note: Dimethocaine shows strong inter-individual variability due to NAT2 polymorphism. Redosing and high doses substantially increase cardiovascular and tissue toxicity risk.",
+    "formatted_aftereffects": {
+      "_unit": "hours",
+      "Insufflated": "1-6"
+    },
+    "formatted_dose": {
+      "Insufflated": {
+        "Light": "5-15mg",
+        "Common": "15-30mg",
+        "Strong": "30-50mg"
+      }
+    },
+    "formatted_duration": {
+      "_unit": "hours",
+      "Insufflated": "1.5-3"
+    },
+    "formatted_effects": [
+      "Stimulation",
+      "Euphoria",
+      "Increased alertness",
+      "Local numbness",
+      "Increased confidence",
+      "Tachycardia (increased heart rate)",
+      "Vasoconstriction",
+      "Increased blood pressure",
+      "Anxiety",
+      "Jaw tension",
+      "Insomnia"
+    ],
+    "formatted_onset": {
+      "_unit": "minutes",
+      "Insufflated": "2-10"
+    },
+    "links": {
+      "experiences": "https://www.erowid.org/experiences/subs/exp_Dimethocaine.shtml"
+    },
+    "name": "dimethocaine",
+    "pretty_name": "Dimethocaine",
+    "properties": {
+      "after-effects": "Insufflated: 1-6 hours. | Note: After-effects commonly include fatigue, headache, nasal irritation, and residual cardiovascular strain.",
+      "aliases": [
+        "DMC",
+        "CMD",
+        "Larocaine"
+      ],
+      "categories": [
+        "stimulant",
+        "research-chemical",
+        "habit-forming",
+        "tentative"
+      ],
+      "dose": "Insufflated Light: 5-15mg Common: 15-30mg Strong: 30-50mg. | Note: Local anesthesia can mask tissue damage; repeated dosing increases cardiotoxic risk.",
+      "duration": "Insufflated: 1.5-3 hours. | NOTE: Duration varies significantly depending on metabolism, purity, and tolerance.",
+      "effects": "Stimulation, Euphoria, Increased alertness, Local numbness, Increased confidence, Tachycardia, Vasoconstriction, Increased blood pressure, Anxiety, Jaw tension, Insomnia.",
+      "onset": "Insufflated: 2-10 minutes | NOTE: Rapid onset due to nasal absorption and local anesthetic properties.",
+      "summary": "Dimethocaine is a synthetic cocaine-derived local anesthetic with stimulant properties. It acts primarily as a dopamine reuptake inhibitor and voltage-gated sodium channel blocker, producing cocaine-like but generally less intense effects. Despite being perceived as milder, it carries substantial cardiovascular and tissue toxicity risks. Metabolism is dominated by NAT2-mediated N-acetylation, with additional contributions from multiple cytochrome P450 enzymes, resulting in significant inter-individual variability and elevated risk for slow acetylators."
+    },
+    "sources": {
+      "_general": [
+        "Wikipedia contributors. Dimethocaine. Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Dimethocaine",
+        "Lindauer C. Toxicokinetics of Emerging Drugs of Abuse: In vivo and in vitro studies on the metabolic fate of the cocaine-derived designer drug dimethocaine. Universität des Saarlandes, 2014. https://jahrbib.sulb.uni-saarland.de/bitstream/20.500.11880/21949/1/Dissertation_Lindauer_Dimethocaine_final_hhm.pdf",
+        "Meyer MR, Lindauer C, Maurer HH. Dimethocaine, a synthetic cocaine derivative: Studies on its in vitro metabolism catalyzed by P450s and NAT2. Toxicology Letters. 2014;225(1):139–146. https://doi.org/10.1016/j.toxlet.2013.11.033"
+      ]
+    }
+  }
+  ,
   "dimethylone": {
     "categories": [
       "inactive"
