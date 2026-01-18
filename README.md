@@ -19,6 +19,9 @@ You are also encouraged to see the [repository's Wiki](https://github.com/TripSi
 ## Drug Combination Chart
 > TripSit's Drug Combination Chart is undergoing a large project to expand, revise, and update the current edition of the chart. You can learn more and see the latest for this project on our [Research Document](https://docs.google.com/document/d/1cT4wONr4GsijbzeYPAFpSpZh0Mq5u7SEQkTHbxDxAVA/edit?usp=sharing).
 
+### [Getting Started - Combination Project](https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-Chart-Project)
+### [Task Timeline - Combination Project](https://github.com/TripSit/drugs/wiki/Task-Timeline-%7C-TripSit's-Combination-Chart-Project)
+
 ### Combination Issues
 * Any interactions in issues are ready to be made into pull requests unless otherwise stated. These need to be added to combos.json and, when relevant, drugs.json
 * You can see an example of this done here: https://github.com/TripSit/drugs/pull/302
