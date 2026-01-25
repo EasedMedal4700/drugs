@@ -2032,8 +2032,8 @@
       "2c-g-5"
     ],
     "categories": [
-        "psychedelic",
-        "research-chemical"
+      "psychedelic",
+      "research-chemical"
     ],
     "formatted_aftereffects": {
       "_unit": "hours",
@@ -2041,8 +2041,8 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Light": "unknown",
         "Common": "unknown",
+        "Light": "unknown",
         "Strong": "unknown"
       }
     },
@@ -13697,10 +13697,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Light": "150mg/day",
         "Common": "150-300mg/day",
-        "Strong": "300-450mg/day",
-        "Heavy": "450mg+/day"
+        "Heavy": "450mg+/day",
+        "Light": "150mg/day",
+        "Strong": "300-450mg/day"
       }
     },
     "formatted_duration": {
@@ -18137,8 +18137,8 @@
     },
     "formatted_dose": {
       "Insufflated": {
-        "Light": "5-15mg",
         "Common": "15-30mg",
+        "Light": "5-15mg",
         "Strong": "30-50mg"
       }
     },
@@ -18194,8 +18194,7 @@
         "Meyer MR, Lindauer C, Maurer HH. Dimethocaine, a synthetic cocaine derivative: Studies on its in vitro metabolism catalyzed by P450s and NAT2. Toxicology Letters. 2014;225(1):139–146. https://doi.org/10.1016/j.toxlet.2013.11.033"
       ]
     }
-  }
-  ,
+  },
   "dimethylone": {
     "categories": [
       "inactive"
@@ -20622,10 +20621,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Light": "15-25mg",
         "Common": "30-50mg",
-        "Strong": "50-80mg",
-        "Heavy": "80mg+"
+        "Heavy": "80mg+",
+        "Light": "15-25mg",
+        "Strong": "50-80mg"
       }
     },
     "formatted_duration": {
@@ -20658,10 +20657,10 @@
         "research-chemical"
       ],
       "dose": "Oral Light: 15-25mg | Common: 30-50mg | Strong: 50-80mg | Heavy: 80mg+. NOTE: DXME is a novel dissociative with limited human data. Potency, duration, and adverse effects may vary significantly between individuals. Conservative dosing and extended waiting periods are advised.",
-      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
       "duration": "4–8 hours. Duration may vary depending on dose, metabolism, and individual sensitivity.",
       "effects": "Dissociation, Analgesia, Euphoria, Cognitive impairment, Sedation, Time distortion, Impaired coordination, Confusion.",
       "half-life": "Unknown.",
+      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
       "onset": "30–90 minutes.",
       "summary": "Deoxymethoxetamine (DXME) is a novel dissociative from the arylcyclohexylamine family that emerged on the illicit market around 2020–2021. It has been identified as a new psychoactive substance and computationally predicted to possess addictive potential. Human pharmacological data remain limited, and effects show notable inter-individual variability."
     },
@@ -24013,10 +24012,10 @@
     },
     "formatted_dose": {
       "Oral": {
-        "Light": "5-10mg",
         "Common": "10-20mg",
-        "Strong": "20-35mg",
-        "Heavy": "35mg+"
+        "Heavy": "35mg+",
+        "Light": "5-10mg",
+        "Strong": "20-35mg"
       }
     },
     "formatted_duration": {
@@ -24059,10 +24058,10 @@
         "depressant"
       ],
       "dose": "Light: 5-10mg Common: 10-20mg Strong: 20-35mg+. NOTE: In controlled human studies, single oral doses below approximately 25 mg often produced no definite subjective effects, while morphine-like effects became consistent at higher doses.",
-      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
       "duration": "Oral 6–24 hours. In human studies, effects were sometimes reported for as long as 24 hours after a single oral dose.",
       "effects": "Analgesia, Euphoria, Sedation, Respiratory depression, Mood lift, Itchiness, Dry mouth, Pupil constriction, Physical relaxation.",
       "half-life": "Unknown.",
+      "note": "Please be aware that with research chemicals purchased from grey-market vendors, one can never be 100% certain of the actual amount or purity of the active compound. Tread lightly.",
       "onset": "45–120 minutes.",
       "summary": "Methiodone (IC-26, WIN 1161-3) is a synthetic opioid analgesic and methadone analogue developed by Sterling Drug Inc. In human studies, low oral doses frequently produced no clear subjective effects, while higher doses induced morphine-like effects with significant inter-individual variability. Twenty-four-hour substitution studies demonstrated that IC-26 effectively suppressed morphine withdrawal, and its addiction liability was concluded to be comparable to morphine."
     },
@@ -30157,16 +30156,16 @@
     },
     "formatted_dose": {
       "Insufflated": {
-        "Light": "5-10mg",
         "Common": "10-20mg",
-        "Strong": "20-30mg",
-        "Heavy": "30mg+"
+        "Heavy": "30mg+",
+        "Light": "5-10mg",
+        "Strong": "20-30mg"
       },
       "Oral": {
-        "Light": "5-10mg",
         "Common": "10-20mg",
-        "Strong": "20-40mg",
-        "Heavy": "40mg+"
+        "Heavy": "40mg+",
+        "Light": "5-10mg",
+        "Strong": "20-40mg"
       }
     },
     "formatted_duration": {
